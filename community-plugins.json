@@ -18933,5 +18933,12 @@
     "author": "Eddie Blundell",
     "description": "Add timestamps to entries under dated headers for lab notebook style logging.",
     "repo": "eddie/obsidian-time-log"
+  },
+  {
+  "id": "obsidian-note-state-icons",
+  "name": "Note State Icons",
+  "author": "swefpifh",
+  "description": "Add a status icon to the left of a note's title.",
+  "repo": "swefpifh/obsidian-note-state-icons"
   }
 ]
